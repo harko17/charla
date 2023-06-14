@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159233035566",
+    "project_id": "charla24-7",
+    "storage_bucket": "charla24-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159233035566:android:6c9b097a0ded072d497ebf",
+        "android_client_info": {
+          "package_name": "com.example.charla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159233035566-l1ivrncf6ceg5nf1gjps5k39t0ta33d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvFZtzZPDWXZfzK1LXYsaa5KurdiaS00Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159233035566-l1ivrncf6ceg5nf1gjps5k39t0ta33d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
